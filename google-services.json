@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471915123621",
+    "firebase_url": "https://reevalhakamraves-122ff-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "reevalhakamraves-122ff",
+    "storage_bucket": "reevalhakamraves-122ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471915123621:android:15a893346f7b07567fce4c",
+        "android_client_info": {
+          "package_name": "com.example.reevalhakamraves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471915123621-o75d62gnucdmnjed335c1u79e2c52q6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACXXkILw-huomHhMCjDfB9AhH8_7Vw7nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471915123621-o75d62gnucdmnjed335c1u79e2c52q6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
